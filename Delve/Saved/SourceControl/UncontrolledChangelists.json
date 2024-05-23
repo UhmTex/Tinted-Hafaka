@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/User/Desktop/Gits/Tinted-Hafaka/Delve/Content/_Main/Blueprints/Tether/BP_TetherTEST1.uasset",
+				"C:/Users/User/Desktop/Gits/Tinted-Hafaka/Delve/Content/_Main/Blueprints/Tether/BP_Tether.uasset",
+				"C:/Users/User/Desktop/Gits/Tinted-Hafaka/Delve/Content/_Main/Blueprints/Tether/BP_TetherTEST2.uasset",
+				"C:/Users/User/Desktop/Gits/Tinted-Hafaka/Delve/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/UR/PG7Z76LWRK2EMXS4JLENGU.uasset",
+				"C:/Users/User/Desktop/Gits/Tinted-Hafaka/Delve/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/KU/W2CJHV19LC5Q2ICHRNZNL7.uasset",
+				"C:/Users/User/Desktop/Gits/Tinted-Hafaka/Delve/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/TD/6PT70643GGPZ5A3G4OKS17.uasset",
 				"C:/Users/Tamir/Documents/GitHub/Tinted-Hafaka/Delve/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/Users/Tamir/Documents/GitHub/Tinted-Hafaka/Delve/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"C:/Users/Tamir/Documents/GitHub/Tinted-Hafaka/Delve/Content/FirstPersonArms/Animations/FirstPerson_AnimBP.uasset",
